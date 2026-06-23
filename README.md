@@ -166,8 +166,10 @@ VITE_API_URL=https://your-backend-url
 
 ## 👨‍💻 Author
 
-Ujjawal Tiwari <br>  
-Srishti Bhardwaj <br>
+Ujjawal Tiwari
+<br>
+Srishti Bhardwaj
+<br>
 BTech CSE (AI/ML)
 
 ---
